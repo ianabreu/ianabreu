@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Ian 👋
 
-- 👨 Tenho 28 anos
-- Apaixonado por tecnologia, estou sempre em busca de mais conhecimento sobre esta área que é simplesmente maravilhosa
+- Tenho 28 anos
+- Sou apaixonado por tecnologia
+- Estou sempre em busca de mais conhecimento sobre esta área que é simplesmente maravilhosa
 - Atualmente estou aprendendo React Native, ReactJS, NodeJS
-- 
 
 
 ### Meus contatos
