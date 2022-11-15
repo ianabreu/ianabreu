@@ -1,8 +1,8 @@
-## Olá! Eu sou o Ian Paixão Pereira de Abreu 👋
+## Olá! Eu sou Ian Paixão Pereira de Abreu 👋
 
-#### Sou apaixonado por tecnologia e estou sempre em busca de mais conhecimento sobre esta área que é simplesmente maravilhosa.
+- Sou apaixonado por tecnologia e estou sempre em busca de mais conhecimento sobre esta área que é simplesmente maravilhosa.
 
-##### Atualmente estudo as tecnologias React Native, ReactJS, NodeJS
+- Atualmente estou estudando as tecnologias React Native, ReactJS, NodeJS.
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ianabreu.dev/)
