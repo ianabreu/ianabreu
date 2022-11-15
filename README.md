@@ -1,12 +1,12 @@
-## Olá! Eu sou o Ian 👋
+### Olá! Eu sou o Ian 🙋🏻‍♂️
 
-- Tenho 28 anos
-- Sou apaixonado por tecnologia
-- Estou sempre em busca de mais conhecimento sobre esta área que é simplesmente maravilhosa
-- Atualmente estou aprendendo React Native, ReactJS, NodeJS
+- 📆 Tenho 28 anos
+- ⚙️ Sou um Engenheiro de Software apaixonado por tecnologia
+- 📖 Estou sempre em busca de mais conhecimento sobre esta área que é simplesmente maravilhosa
+- 🧑🏻‍🎓 Atualmente estou aprendendo React Native, ReactJS, NodeJS
 
 
-### Redes Sociais
+## 🌎 Redes Sociais
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ianabreu.dev/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-abreu)
@@ -18,7 +18,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianabreu&layout=compact&langs_count=8&theme=merko&locale=pt-br)](https://github.com/ianabreu?tab=repositories)
 
 
-### Tecnologias que eu uso 👨‍💻
+# 🧑🏻‍💻 Tecnologias do dia a dia
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
