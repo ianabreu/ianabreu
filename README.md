@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Ian 🙋🏻‍♂️
 
-- 📆 Tenho 28 anos
-- ⚙️ Sou um Engenheiro de Software apaixonado por tecnologia
-- 📖 Estou sempre em busca de mais conhecimento sobre esta área que é simplesmente maravilhosa
-- 🧑🏻‍🎓 Atualmente estou aprendendo React Native, ReactJS, NodeJS
+📆 Tenho 28 anos
+⚙️ Sou um Engenheiro de Software apaixonado por tecnologia
+📖 Estou sempre em busca de mais conhecimento sobre esta área que é simplesmente maravilhosa
+🎓 Atualmente estou aprendendo React Native, ReactJS, NodeJS
 
 
 ## 🌎 Redes Sociais
