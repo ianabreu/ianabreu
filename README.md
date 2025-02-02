@@ -1,6 +1,6 @@
 # Olá! Eu sou o Ian 🙋🏻‍♂️
 
-- 📆 Tenho 29 anos
+- 📆 Tenho 31 anos
 - ⚙️ Sou um Desenvolvedor apaixonado por tecnologia
 - 📖 Estou sempre em busca de mais conhecimento sobre esta área que é simplesmente maravilhosa
 - 🎓 Atualmente estou aprendendo React Native, ReactJS, NodeJS, Typescript
